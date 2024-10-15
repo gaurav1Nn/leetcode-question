@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0507-perfect-number) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gaurav1Nn/leetcode-question/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2609-distinct-prime-factors-of-product-of-array) |
