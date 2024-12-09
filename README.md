@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0908-middle-of-the-linked-list) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/1078-remove-outermost-parentheses) |
 ## Binary Search
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0908-middle-of-the-linked-list) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
