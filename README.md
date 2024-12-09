@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0507-perfect-number) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2032-largest-odd-number-in-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
