@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/gaurav1Nn/leetcode-question/tree/master/0725-split-linked-list-in-parts) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/gaurav1Nn/leetcode-question/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/gaurav1Nn/leetcode-question/tree/master/2196-reverse-nodes-in-even-length-groups) |
@@ -170,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
