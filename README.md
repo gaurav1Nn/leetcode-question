@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gaurav1Nn/leetcode-question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/gaurav1Nn/leetcode-question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## String
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/1078-remove-outermost-parentheses) |
 ## Binary Search
 |  |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
