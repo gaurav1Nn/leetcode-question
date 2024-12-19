@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gaurav1Nn/leetcode-question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/1078-remove-outermost-parentheses) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/gaurav1Nn/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
