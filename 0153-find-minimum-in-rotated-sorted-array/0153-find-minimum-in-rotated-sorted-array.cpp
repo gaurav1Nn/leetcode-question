@@ -11,7 +11,7 @@ public:
                 mine = min(arr[low],mine);
                 low = mid+1; // eliminate left half
             }
-                // o(log) solution
+                // o(logn) solution
             else{
                 mine = min(mine,arr[mid]);
                 high = mid -1; //eliminate right half
