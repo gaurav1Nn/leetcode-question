@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gaurav1Nn/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/0205-isomorphic-strings) |
+| [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2032-largest-odd-number-in-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/gaurav1Nn/leetcode-question/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/0860-design-circular-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
