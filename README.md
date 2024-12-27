@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-design-circular-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/0860-design-circular-queue) |
 | [0943-sum-of-subarray-minimums](https://github.com/gaurav1Nn/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1646-kth-missing-positive-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gaurav1Nn/leetcode-question/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0148-sort-list) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/0860-design-circular-queue) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
