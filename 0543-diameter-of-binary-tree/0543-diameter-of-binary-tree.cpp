@@ -11,18 +11,22 @@
  */
 class Solution {
 public:
-    int maxd = 0;
-    int dia = 0;
+   
     int levels(TreeNode* root) {
         if(root==NULL) return 0;
         return 1 + max(levels(root->left) , levels(root->right));
     }
-    int diameterOfBinaryTree(TreeNode* root) {
-        if(root==NULL) return 0;
-        dia = levels(root->left) + levels(root->right);
+     void visit(TreeNode* root , int &maxd){
+        if(root==NULL) return ;
+        int dia = levels(root->left) + levels(root->right);
         maxd = max(dia,maxd);
-        diameterOfBinaryTree(root->left);
-        diameterOfBinaryTree(root->right);
+        visit(root->left,maxd);
+        visit(root->right,maxd);
+        // return maxd;
+    } // this approoach is loved by interviewrs
+    int diameterOfBinaryTree(TreeNode* root) {
+        int maxd = 0;
+        visit(root , maxd);
         return maxd;
     }
 };
