@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0263-ugly-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0023-merge-k-sorted-lists) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0206-reverse-linked-list) |
