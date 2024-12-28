@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -263,9 +264,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
