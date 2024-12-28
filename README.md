@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -259,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/gaurav1Nn/leetcode-question/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/gaurav1Nn/leetcode-question/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/0860-design-circular-queue) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
