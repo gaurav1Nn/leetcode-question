@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gaurav1Nn/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/1078-remove-outermost-parentheses) |
@@ -220,11 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -267,12 +270,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
