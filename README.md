@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/gaurav1Nn/leetcode-question/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/gaurav1Nn/leetcode-question/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/gaurav1Nn/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/gaurav1Nn/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/gaurav1Nn/leetcode-question/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/gaurav1Nn/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Queue
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/gaurav1Nn/leetcode-question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gaurav1Nn/leetcode-question/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/0860-design-circular-queue) |
+| [0937-online-stock-span](https://github.com/gaurav1Nn/leetcode-question/tree/master/0937-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0226-invert-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/gaurav1Nn/leetcode-question/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
