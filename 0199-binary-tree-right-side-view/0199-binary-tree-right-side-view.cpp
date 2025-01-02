@@ -18,26 +18,16 @@ int levels(TreeNode* root){
     return 1+ max(levels(root->left),levels(root->right));
 }
 
-void nleveltree(TreeNode* root , int curr , int level,vector<int>& ans){
-    if(root==NULL) return ;
-    if(curr == level){
-        ans[curr] = root->val;
-        return ;
+    void preorder(TreeNode* root  , int levels , vector<int>& ans){
+        if(root==NULL) return ;
+        ans[levels] = root->val;
+        preorder(root->left,levels+1,ans);
+        preorder(root->right,levels+1,ans);
     }
-    nleveltree(root->left,curr+1 , level,ans); // left recursion
-     nleveltree(root->right ,curr+1 , level,ans); // right recursion
-}
-void levelorder(TreeNode* root,vector<int>& ans){
-    int n= ans.size();
-    for(int i=0;i<n;i++){
-        nleveltree(root,0,i,ans);
-        
-    }
-}
     vector<int> rightSideView(TreeNode* root) {
         int n = levels(root);
         vector<int> ans(n,0);
-        levelorder(root,ans);
+        preorder(root,0,ans);
         return ans;
     }
 };
