@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0263-ugly-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/gaurav1Nn/leetcode-question/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gaurav1Nn/leetcode-question/tree/master/0141-linked-list-cycle) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gaurav1Nn/leetcode-question/tree/master/0125-valid-palindrome) |
