@@ -11,7 +11,7 @@ public:
     }
     int countDistinctIntegers(vector<int>& nums) {
         int n = nums.size();
-        vector<int> arr(n);
+        vector<int> arr;
         for(int x: nums){
             arr.push_back(reverse(x));
         }
@@ -20,6 +20,6 @@ public:
         for(int x: nums){
             a.insert(x);
         }
-        return a.size()-1;
+        return a.size();
     }
 };
