@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gaurav1Nn/leetcode-question/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/gaurav1Nn/leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Union Find
 |  |
 | ------- |
