@@ -1,6 +1,7 @@
 
 class Solution {
 public:
+  // MORRIS traversal 
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
         TreeNode* curr = root;
