@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gaurav1Nn/leetcode-question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/gaurav1Nn/leetcode-question/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gaurav1Nn/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/gaurav1Nn/leetcode-question/tree/master/0138-copy-list-with-random-pointer) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [1396-count-servers-that-communicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/1396-count-servers-that-communicate) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gaurav1Nn/leetcode-question/tree/master/2685-first-completely-painted-row-or-column) |
