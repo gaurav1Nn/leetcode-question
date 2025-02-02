@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/gaurav1Nn/leetcode-question/tree/master/2792-neighboring-bitwise-xor) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3429-special-array-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/gaurav1Nn/leetcode-question/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
 |  |
