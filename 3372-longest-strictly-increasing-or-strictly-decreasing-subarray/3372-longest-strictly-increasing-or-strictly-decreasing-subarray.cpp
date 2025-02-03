@@ -9,22 +9,26 @@ public:
         for(int i=0;i<n-1;i++){
             if(nums[i+1]>nums[i]){
                 count1++;
+                Mcount1 = max(count1,Mcount1);
                
             }
             else {
+                
                 count1=1;
+
             }
-            Mcount1 = max(count1,Mcount1);
+            
         }
         for(int i=0;i<n-1;i++){
             if(nums[i+1]<nums[i]){
                 count2++;
-               
+                Mcount2 = max(count2,Mcount2);
             }
             else {
+               
                 count2=1;
             }
-             Mcount2 = max(count2,Mcount2);
+            
         }
         if(Mcount1==0) Mcount1=1;
         if(Mcount2==0) Mcount2=1;
