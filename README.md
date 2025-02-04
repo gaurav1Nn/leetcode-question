@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gaurav1Nn/leetcode-question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
