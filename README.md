@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1364-tuple-with-same-product](https://github.com/gaurav1Nn/leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/1396-count-servers-that-communicate) |
 | [1646-kth-missing-positive-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
+| [1364-tuple-with-same-product](https://github.com/gaurav1Nn/leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/gaurav1Nn/leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
