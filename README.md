@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1013-fibonacci-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2032-largest-odd-number-in-string) |
+| [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/gaurav1Nn/leetcode-question/tree/master/2491-smallest-even-multiple) |
 | [2496-count-days-spent-together](https://github.com/gaurav1Nn/leetcode-question/tree/master/2496-count-days-spent-together) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/gaurav1Nn/leetcode-question/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Union Find
