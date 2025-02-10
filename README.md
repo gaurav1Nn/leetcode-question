@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gaurav1Nn/leetcode-question/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gaurav1Nn/leetcode-question/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/3447-clear-digits) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/gaurav1Nn/leetcode-question/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Number Theory
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/gaurav1Nn/leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gaurav1Nn/leetcode-question/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
