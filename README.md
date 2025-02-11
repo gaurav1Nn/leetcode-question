@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/gaurav1Nn/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/gaurav1Nn/leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gaurav1Nn/leetcode-question/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/gaurav1Nn/leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gaurav1Nn/leetcode-question/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2496-count-days-spent-together](https://github.com/gaurav1Nn/leetcode-question/tree/master/2496-count-days-spent-together) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/gaurav1Nn/leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gaurav1Nn/leetcode-question/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/3447-clear-digits) |
 ## Binary Search
