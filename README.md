@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gaurav1Nn/leetcode-question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2107-find-unique-binary-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gaurav1Nn/leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2032-largest-odd-number-in-string) |
+| [2107-find-unique-binary-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gaurav1Nn/leetcode-question/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2496-count-days-spent-together](https://github.com/gaurav1Nn/leetcode-question/tree/master/2496-count-days-spent-together) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/gaurav1Nn/leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0257-binary-tree-paths) |
+| [2107-find-unique-binary-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2107-find-unique-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
