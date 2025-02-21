@@ -1,12 +1,13 @@
 class Solution {
 public:
-    int helper(int a){
-        if(a==0 ) return 0;
-        if(a==1) return 1;
-        return helper(a-1) + helper(a-2);
+    int fibo(int n , vector<int>& dp){
+        if(n<=1) return n;
+        if(dp[n]!=-1) return dp[n];
+        return dp[n]=fibo(n-1,dp) + fibo(n-2,dp);
     }
     int fib(int n) {
-        int x = helper(n);
-        return x;
+        vector<int>dp(n+1,-1);
+        return  fibo(n,dp);
+
     }
 };
