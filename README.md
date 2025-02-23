@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/gaurav1Nn/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/0860-design-circular-queue) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/gaurav1Nn/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/gaurav1Nn/leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0148-sort-list) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/gaurav1Nn/leetcode-question/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/gaurav1Nn/leetcode-question/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
