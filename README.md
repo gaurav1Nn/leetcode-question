@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0263-ugly-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurav1Nn/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/gaurav1Nn/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
@@ -571,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
