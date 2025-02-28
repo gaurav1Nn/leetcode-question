@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gaurav1Nn/leetcode-question/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0283-move-zeroes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gaurav1Nn/leetcode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gaurav1Nn/leetcode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
