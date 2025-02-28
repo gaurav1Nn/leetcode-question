@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gaurav1Nn/leetcode-question/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/gaurav1Nn/leetcode-question/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/gaurav1Nn/leetcode-question/tree/master/0500-keyboard-row) |
 | [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0812-rotate-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/gaurav1Nn/leetcode-question/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0812-rotate-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
