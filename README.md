@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/gaurav1Nn/leetcode-question/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0507-perfect-number) |
+| [0755-reach-a-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gaurav1Nn/leetcode-question/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
+| [0755-reach-a-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0755-reach-a-number) |
 | [1646-kth-missing-positive-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [3763-separate-squares-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3763-separate-squares-i) |
 ## Greedy
