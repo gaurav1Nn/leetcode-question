@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gaurav1Nn/leetcode-question/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/gaurav1Nn/leetcode-question/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3763-separate-squares-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3763-separate-squares-i) |
 | [3779-eat-pizzas](https://github.com/gaurav1Nn/leetcode-question/tree/master/3779-eat-pizzas) |
 ## Two Pointers
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1646-kth-missing-positive-number) |
+| [3763-separate-squares-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3763-separate-squares-i) |
 ## Greedy
 |  |
 | ------- |
