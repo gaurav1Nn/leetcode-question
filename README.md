@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/gaurav1Nn/leetcode-question/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/gaurav1Nn/leetcode-question/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/gaurav1Nn/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gaurav1Nn/leetcode-question/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/gaurav1Nn/leetcode-question/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurav1Nn/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/gaurav1Nn/leetcode-question/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/gaurav1Nn/leetcode-question/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/gaurav1Nn/leetcode-question/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
