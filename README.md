@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gaurav1Nn/leetcode-question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/gaurav1Nn/leetcode-question/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/gaurav1Nn/leetcode-question/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/gaurav1Nn/leetcode-question/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gaurav1Nn/leetcode-question/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurav1Nn/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/gaurav1Nn/leetcode-question/tree/master/0198-house-robber) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/gaurav1Nn/leetcode-question/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
 | [1502-construct-k-palindrome-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
