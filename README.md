@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/gaurav1Nn/leetcode-question/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/gaurav1Nn/leetcode-question/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0204-count-primes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gaurav1Nn/leetcode-question/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/gaurav1Nn/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/gaurav1Nn/leetcode-question/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/gaurav1Nn/leetcode-question/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/gaurav1Nn/leetcode-question/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/gaurav1Nn/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/gaurav1Nn/leetcode-question/tree/master/0168-excel-sheet-column-title) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gaurav1Nn/leetcode-question/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0136-single-number) |
