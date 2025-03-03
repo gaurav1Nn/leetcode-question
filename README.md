@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/gaurav1Nn/leetcode-question/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/gaurav1Nn/leetcode-question/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2551-apply-operations-to-an-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gaurav1Nn/leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/gaurav1Nn/leetcode-question/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2551-apply-operations-to-an-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gaurav1Nn/leetcode-question/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
