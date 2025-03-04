@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/gaurav1Nn/leetcode-question/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/gaurav1Nn/leetcode-question/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/gaurav1Nn/leetcode-question/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/gaurav1Nn/leetcode-question/tree/master/0506-relative-ranks) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gaurav1Nn/leetcode-question/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/gaurav1Nn/leetcode-question/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
