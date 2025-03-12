@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2551-apply-operations-to-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gaurav1Nn/leetcode-question/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gaurav1Nn/leetcode-question/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2721-sum-of-distances](https://github.com/gaurav1Nn/leetcode-question/tree/master/2721-sum-of-distances) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0755-reach-a-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0755-reach-a-number) |
 | [1646-kth-missing-positive-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1646-kth-missing-positive-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3763-separate-squares-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3763-separate-squares-i) |
 ## Greedy
 |  |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Union Find
 |  |
