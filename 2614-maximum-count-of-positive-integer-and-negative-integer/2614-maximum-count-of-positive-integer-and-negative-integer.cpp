@@ -1,13 +1,12 @@
 class Solution {
 public:
     int maximumCount(vector<int>& nums) {
-        int positiveCount = 0, negativeCount = 0;
-
-        for (int num : nums) {
-            positiveCount += num > 0;
-            negativeCount += num < 0;
+        int cn = 0;
+        int cp = 0;
+        for(int i =0;i<nums.size();i++){
+            if(nums[i]>0) cp++;
+            if(nums[i]<0) cn++;
         }
-
-        return max(positiveCount, negativeCount);
+        return max(cn,cp);
     }
 };
