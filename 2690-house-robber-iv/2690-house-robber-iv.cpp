@@ -1,30 +1,38 @@
 class Solution {
 public:
-    bool check(vector<int>& n, int m, int k) {
-        int c = 0;  // count
-        int p = -2; // prev
+    bool checker(vector<int>&nums, int mid,int k){
+       int prev=-1;
+       int total=0;
+       bool first=false;
+       for(int i=0; i<nums.size(); i++){
+        if(nums[i]<=mid && prev==-1){
+            prev=i;
+            total++;
+            first=true;
+            continue;
+        }
+        if(nums[i]<=mid && first && prev!=i-1){
+             total++;
+             prev=i;
+        }
         
-        for(int i = 0; i < n.size(); i++) {
-            if(n[i] <= m && i > p + 1) {
-                c++;
-                p = i;
+       }
+       return (total>=k);
+    }
+    int minCapability(vector<int>& nums, int k) {
+        int start=*min_element(nums.begin(),nums.end());
+        int end=*max_element(nums.begin(),nums.end());
+        int ans;
+        while(start<=end){
+            int mid=(start+(end-start)/2);
+            if(checker(nums,mid,k)){
+                end=mid-1;
+                ans=mid;
+            }
+            else{
+                start=mid+1;
             }
         }
-        return c >= k;
-    }
-    
-    int minCapability(vector<int>& n, int k) {
-        int l = 1;
-        int r = 1e9;
-        
-        while(l < r) {
-            int m = l + (r - l)/2;
-            if(check(n, m, k)) {
-                r = m;
-            } else {
-                l = m + 1;
-            }
-        }
-        return l;
-    }
+        return ans;
+    }
 };
