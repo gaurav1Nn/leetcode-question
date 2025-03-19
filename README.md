@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gaurav1Nn/leetcode-question/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gaurav1Nn/leetcode-question/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/3643-zero-array-transformation-ii) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/gaurav1Nn/leetcode-question/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/gaurav1Nn/leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2721-sum-of-distances](https://github.com/gaurav1Nn/leetcode-question/tree/master/2721-sum-of-distances) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/3643-zero-array-transformation-ii) |
 ## String Matching
 |  |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/gaurav1Nn/leetcode-question/tree/master/2478-longest-nice-subarray) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/gaurav1Nn/leetcode-question/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/gaurav1Nn/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gaurav1Nn/leetcode-question/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gaurav1Nn/leetcode-question/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/gaurav1Nn/leetcode-question/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Monotonic Queue
