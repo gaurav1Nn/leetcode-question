@@ -1,21 +1,41 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    pair<TreeNode*, int> dfs(TreeNode* root) {
-        if (!root) {
-            return {nullptr, 0};
+    int max_height=0;
+    auto dfs(TreeNode* root , int curr){
+        if(root==NULL){
+            return ;
         }
-
-        auto left = dfs(root->left);
-        auto right = dfs(root->right);
-
-        if (left.second > right.second) {
-            return {left.first, left.second + 1};
-        }
-        if (left.second < right.second) {
-            return {right.first, right.second + 1};
-        }
-        return {root, left.second + 1};
+        max_height=max(max_height,curr);
+        dfs(root->left,curr+1);
+        dfs(root->right,curr+1);
     }
-
-    TreeNode* lcaDeepestLeaves(TreeNode* root) { return dfs(root).first; }
+    TreeNode* lca(TreeNode* root , int curr){
+        if(root == NULL || curr==max_height){
+            return root;
+        }
+        TreeNode* left=lca(root->left,curr+1);
+        TreeNode* right=lca(root->right,curr+1);
+        if(left==NULL){
+            return right;
+        }
+        if(right==NULL){
+            return left;
+        }
+        return root;
+    }
+    TreeNode* lcaDeepestLeaves(TreeNode* root) {
+        dfs(root,0);
+        return lca(root,0);
+    }
 };
