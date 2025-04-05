@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gaurav1Nn/leetcode-question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gaurav1Nn/leetcode-question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gaurav1Nn/leetcode-question/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gaurav1Nn/leetcode-question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/gaurav1Nn/leetcode-question/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/gaurav1Nn/leetcode-question/tree/master/0693-binary-number-with-alternating-bits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/gaurav1Nn/leetcode-question/tree/master/2478-longest-nice-subarray) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0257-binary-tree-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Depth-First Search
@@ -772,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Graph
 |  |
 | ------- |
