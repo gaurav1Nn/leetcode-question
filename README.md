@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/gaurav1Nn/leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/gaurav1Nn/leetcode-question/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/gaurav1Nn/leetcode-question/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/gaurav1Nn/leetcode-question/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/0496-next-greater-element-i) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/gaurav1Nn/leetcode-question/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/gaurav1Nn/leetcode-question/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/gaurav1Nn/leetcode-question/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/gaurav1Nn/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
