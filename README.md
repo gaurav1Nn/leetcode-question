@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gaurav1Nn/leetcode-question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/gaurav1Nn/leetcode-question/tree/master/2491-smallest-even-multiple) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
