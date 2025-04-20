@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gaurav1Nn/leetcode-question/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gaurav1Nn/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gaurav1Nn/leetcode-question/tree/master/0162-find-peak-element) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/gaurav1Nn/leetcode-question/tree/master/0221-maximal-square) |
 | [1396-count-servers-that-communicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/1396-count-servers-that-communicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gaurav1Nn/leetcode-question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
