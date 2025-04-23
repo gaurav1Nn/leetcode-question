@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/gaurav1Nn/leetcode-question/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1500-count-largest-group](https://github.com/gaurav1Nn/leetcode-question/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gaurav1Nn/leetcode-question/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/gaurav1Nn/leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/gaurav1Nn/leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gaurav1Nn/leetcode-question/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/gaurav1Nn/leetcode-question/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
