@@ -1,30 +1,23 @@
 class Solution {
 public:
+    bool check(map<int,int>&m,int a , int n){
+        return m.size()==a;
+    }
+    int count = 0;
     int countCompleteSubarrays(vector<int>& nums) {
-        int res = 0;
-        unordered_map<int, int> cnt;
+        map<int,int> x;
+        for(auto i : nums){
+            x[i]++;
+        }
+        int a = x.size();
         int n = nums.size();
-        int right = 0;
-        unordered_set<int> distinct(nums.begin(), nums.end());
-        int distinct_count = distinct.size();
-
-        for (int left = 0; left < n; left++) {
-            if (left > 0) {
-                int remove = nums[left - 1];
-                cnt[remove]--;
-                if (cnt[remove] == 0) {
-                    cnt.erase(remove);
-                }
-            }
-            while (right < n && cnt.size() < distinct_count) {
-                int add = nums[right];
-                cnt[add]++;
-                right++;
-            }
-            if (cnt.size() == distinct_count) {
-                res += (n - right + 1);
+        for(int i=0;i<n;i++){
+            map<int,int> m;
+            for(int j=i;j<n;j++){
+                m[nums[j]]++;
+                if(check(m,a,n)) count++;
             }
         }
-        return res;
+        return count;
     }
 };
