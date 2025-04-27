@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gaurav1Nn/leetcode-question/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/gaurav1Nn/leetcode-question/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gaurav1Nn/leetcode-question/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/gaurav1Nn/leetcode-question/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3763-separate-squares-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3763-separate-squares-i) |
 | [3779-eat-pizzas](https://github.com/gaurav1Nn/leetcode-question/tree/master/3779-eat-pizzas) |
