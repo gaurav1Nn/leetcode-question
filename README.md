@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/gaurav1Nn/leetcode-question/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0868-push-dominoes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaurav1Nn/leetcode-question/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/gaurav1Nn/leetcode-question/tree/master/0500-keyboard-row) |
 | [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav1Nn/leetcode-question/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/gaurav1Nn/leetcode-question/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/gaurav1Nn/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1013-fibonacci-number) |
