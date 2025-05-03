@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/gaurav1Nn/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/gaurav1Nn/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gaurav1Nn/leetcode-question/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gaurav1Nn/leetcode-question/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
 | [0797-rabbits-in-forest](https://github.com/gaurav1Nn/leetcode-question/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/gaurav1Nn/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
