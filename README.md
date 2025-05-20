@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/gaurav1Nn/leetcode-question/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/gaurav1Nn/leetcode-question/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0074-search-a-2d-matrix) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/gaurav1Nn/leetcode-question/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/gaurav1Nn/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0074-search-a-2d-matrix) |
