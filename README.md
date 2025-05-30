@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/gaurav1Nn/leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/1396-count-servers-that-communicate) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/gaurav1Nn/leetcode-question/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/gaurav1Nn/leetcode-question/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/gaurav1Nn/leetcode-question/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gaurav1Nn/leetcode-question/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/gaurav1Nn/leetcode-question/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/gaurav1Nn/leetcode-question/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/gaurav1Nn/leetcode-question/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/gaurav1Nn/leetcode-question/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/gaurav1Nn/leetcode-question/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
