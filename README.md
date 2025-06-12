@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/gaurav1Nn/leetcode-question/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gaurav1Nn/leetcode-question/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/gaurav1Nn/leetcode-question/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3763-separate-squares-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3763-separate-squares-i) |
 | [3779-eat-pizzas](https://github.com/gaurav1Nn/leetcode-question/tree/master/3779-eat-pizzas) |
 ## Two Pointers
