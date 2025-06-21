@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/gaurav1Nn/leetcode-question/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/gaurav1Nn/leetcode-question/tree/master/0168-excel-sheet-column-title) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/gaurav1Nn/leetcode-question/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0090-subsets-ii) |
