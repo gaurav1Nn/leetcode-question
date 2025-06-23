@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gaurav1Nn/leetcode-question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/gaurav1Nn/leetcode-question/tree/master/2491-smallest-even-multiple) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/gaurav1Nn/leetcode-question/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/3201-distribute-candies-among-children-ii) |
