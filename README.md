@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/gaurav1Nn/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/0747-min-cost-climbing-stairs) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/gaurav1Nn/leetcode-question/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/gaurav1Nn/leetcode-question/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gaurav1Nn/leetcode-question/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/gaurav1Nn/leetcode-question/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gaurav1Nn/leetcode-question/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav1Nn/leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
@@ -979,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/gaurav1Nn/leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/1396-count-servers-that-communicate) |
