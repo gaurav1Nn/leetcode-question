@@ -1,10 +1,14 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int a =0;
-        for(int i=0;i<nums.size();i++){
-            a = a ^ nums[i];
+        map<int,int> s;
+        int n = nums.size();
+        for(int i=0;i<n;i++){
+            s[nums[i]]++;
         }
-        return a;
+        for(auto x : s){
+            if(x.second == 1) return x.first;
+        }
+        return nums[0];
     }
 };
