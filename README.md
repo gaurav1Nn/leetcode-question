@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/gaurav1Nn/leetcode-question/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/gaurav1Nn/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gaurav1Nn/leetcode-question/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaurav1Nn/leetcode-question/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaurav1Nn/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2479-meeting-rooms-iii](https://github.com/gaurav1Nn/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2551-apply-operations-to-an-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gaurav1Nn/leetcode-question/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/gaurav1Nn/leetcode-question/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/gaurav1Nn/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gaurav1Nn/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/gaurav1Nn/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/gaurav1Nn/leetcode-question/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/gaurav1Nn/leetcode-question/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/gaurav1Nn/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/gaurav1Nn/leetcode-question/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/gaurav1Nn/leetcode-question/tree/master/2681-put-marbles-in-bags) |
