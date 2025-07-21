@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/gaurav1Nn/leetcode-question/tree/master/0860-design-circular-queue) |
 | [0890-lemonade-change](https://github.com/gaurav1Nn/leetcode-question/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/gaurav1Nn/leetcode-question/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/gaurav1Nn/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/gaurav1Nn/leetcode-question/tree/master/0945-snakes-and-ladders) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0755-reach-a-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/gaurav1Nn/leetcode-question/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/gaurav1Nn/leetcode-question/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gaurav1Nn/leetcode-question/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gaurav1Nn/leetcode-question/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1646-kth-missing-positive-number) |
