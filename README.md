@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2448-count-number-of-bad-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav1Nn/leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/gaurav1Nn/leetcode-question/tree/master/2478-longest-nice-subarray) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/gaurav1Nn/leetcode-question/tree/master/0693-binary-number-with-alternating-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/2308-divide-array-into-equal-pairs) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/gaurav1Nn/leetcode-question/tree/master/2478-longest-nice-subarray) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/gaurav1Nn/leetcode-question/tree/master/2792-neighboring-bitwise-xor) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/gaurav1Nn/leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/1396-count-servers-that-communicate) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/gaurav1Nn/leetcode-question/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/gaurav1Nn/leetcode-question/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/gaurav1Nn/leetcode-question/tree/master/2793-count-the-number-of-complete-components) |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/gaurav1Nn/leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/gaurav1Nn/leetcode-question/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gaurav1Nn/leetcode-question/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
