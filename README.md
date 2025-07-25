@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3763-separate-squares-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3763-separate-squares-i) |
 | [3779-eat-pizzas](https://github.com/gaurav1Nn/leetcode-question/tree/master/3779-eat-pizzas) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gaurav1Nn/leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gaurav1Nn/leetcode-question/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gaurav1Nn/leetcode-question/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gaurav1Nn/leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gaurav1Nn/leetcode-question/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3779-eat-pizzas](https://github.com/gaurav1Nn/leetcode-question/tree/master/3779-eat-pizzas) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gaurav1Nn/leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
 | ------- |
