@@ -1,15 +1,49 @@
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
+    // BFS function to simulate rotting process
+    int bfs(vector<vector<int>>& grid, queue<pair<int,int>>& q, int fresh) {
+        int m = grid.size();
+        int n = grid[0].size();
+        int minutes = -1;
+
+        vector<pair<int,int>> directions = {{1,0}, {-1,0}, {0,1}, {0,-1}};
+
+        while (!q.empty()) {
+            int size = q.size();
+            minutes++;
+            while (size--) {
+                auto [r, c] = q.front();
+                q.pop();
+
+                for (auto [dr, dc] : directions) {
+                    int nr = r + dr;
+                    int nc = c + dc;
+
+                    if (nr >= 0 && nr < m && nc >= 0 && nc < n && grid[nr][nc] == 1) {
+                        grid[nr][nc] = 2; // rot the orange
+                        fresh--;
+                        q.push({nr, nc});
+                    }
+                }
+            }
+        }
+
+        return (fresh == 0) ? minutes : -1;
+    }
+
     int orangesRotting(vector<vector<int>>& grid) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-        queue<pair<int, int>> q;
+        int m = grid.size();
+        int n = grid[0].size();
+
+        queue<pair<int,int>> q;
         int fresh = 0;
 
-        // Count fresh oranges and enqueue all initial rotten oranges
-        for (int i = 0; i < rows; ++i) {
-            for (int j = 0; j < cols; ++j) {
+        // Step 1: Collect all rotten oranges and count fresh ones
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 2) {
                     q.push({i, j});
                 } else if (grid[i][j] == 1) {
@@ -18,35 +52,11 @@ public:
             }
         }
 
-        // If no fresh oranges at start, return 0
-        if (fresh == 0) return 0;
+        if (fresh == 0) return 0; // no fresh oranges
 
-        int minutes = 0;
-        vector<pair<int, int>> directions = {{-1,0},{1,0},{0,-1},{0,1}};
-
-        while (!q.empty()) {
-            int size = q.size();
-            bool rotted = false;
-
-            // Process all rotten oranges at this time step
-            for (int i = 0; i < size; ++i) {
-                auto [x, y] = q.front();
-                q.pop();
-                for (auto [dx, dy] : directions) {
-                    int nx = x + dx;
-                    int ny = y + dy;
-                    // Check bounds and if fresh orange
-                    if (nx >= 0 && ny >= 0 && nx < rows && ny < cols && grid[nx][ny] == 1) {
-                        grid[nx][ny] = 2;
-                        fresh--;
-                        q.push({nx, ny});
-                        rotted = true;
-                    }
-                }
-            }
-            if (rotted) minutes++;
-        }
-
-        return fresh == 0 ? minutes : -1;
+        // Step 2: Call BFS
+        return bfs(grid, q, fresh);
     }
 };
+
+
