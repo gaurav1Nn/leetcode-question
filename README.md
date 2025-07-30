@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gaurav1Nn/leetcode-question/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gaurav1Nn/leetcode-question/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gaurav1Nn/leetcode-question/tree/master/0075-sort-colors) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gaurav1Nn/leetcode-question/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurav1Nn/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/gaurav1Nn/leetcode-question/tree/master/0152-maximum-product-subarray) |
@@ -1126,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/gaurav1Nn/leetcode-question/tree/master/0200-number-of-islands) |
