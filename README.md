@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/gaurav1Nn/leetcode-question/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/gaurav1Nn/leetcode-question/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0202-happy-number) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/gaurav1Nn/leetcode-question/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurav1Nn/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0140-word-break-ii) |
@@ -1204,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gaurav1Nn/leetcode-question/tree/master/1986-largest-color-value-in-a-directed-graph) |
