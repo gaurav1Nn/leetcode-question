@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gaurav1Nn/leetcode-question/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gaurav1Nn/leetcode-question/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gaurav1Nn/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0088-merge-sorted-array) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/gaurav1Nn/leetcode-question/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/gaurav1Nn/leetcode-question/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/gaurav1Nn/leetcode-question/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/gaurav1Nn/leetcode-question/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/gaurav1Nn/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gaurav1Nn/leetcode-question/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gaurav1Nn/leetcode-question/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0140-word-break-ii) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gaurav1Nn/leetcode-question/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/gaurav1Nn/leetcode-question/tree/master/0100-same-tree) |
@@ -1145,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav1Nn/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gaurav1Nn/leetcode-question/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/gaurav1Nn/leetcode-question/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/gaurav1Nn/leetcode-question/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/gaurav1Nn/leetcode-question/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/gaurav1Nn/leetcode-question/tree/master/0733-flood-fill) |
