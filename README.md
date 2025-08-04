@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/gaurav1Nn/leetcode-question/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/gaurav1Nn/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/gaurav1Nn/leetcode-question/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/gaurav1Nn/leetcode-question/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/gaurav1Nn/leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav1Nn/leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/gaurav1Nn/leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
