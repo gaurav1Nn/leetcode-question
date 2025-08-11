@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gaurav1Nn/leetcode-question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gaurav1Nn/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gaurav1Nn/leetcode-question/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/gaurav1Nn/leetcode-question/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1603-running-sum-of-1d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/gaurav1Nn/leetcode-question/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2529-range-product-queries-of-powers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/gaurav1Nn/leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2721-sum-of-distances](https://github.com/gaurav1Nn/leetcode-question/tree/master/2721-sum-of-distances) |
 | [2915-count-of-interesting-subarrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/2915-count-of-interesting-subarrays) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/gaurav1Nn/leetcode-question/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gaurav1Nn/leetcode-question/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gaurav1Nn/leetcode-question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/gaurav1Nn/leetcode-question/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gaurav1Nn/leetcode-question/tree/master/3307-find-the-maximum-sum-of-node-values) |
