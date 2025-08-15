@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/gaurav1Nn/leetcode-question/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gaurav1Nn/leetcode-question/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/gaurav1Nn/leetcode-question/tree/master/0368-largest-divisible-subset) |
 | [0504-base-7](https://github.com/gaurav1Nn/leetcode-question/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0507-perfect-number) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/gaurav1Nn/leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/gaurav1Nn/leetcode-question/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gaurav1Nn/leetcode-question/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gaurav1Nn/leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/2050-count-good-numbers) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/gaurav1Nn/leetcode-question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/gaurav1Nn/leetcode-question/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/gaurav1Nn/leetcode-question/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/gaurav1Nn/leetcode-question/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
