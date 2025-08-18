@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/gaurav1Nn/leetcode-question/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/gaurav1Nn/leetcode-question/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/gaurav1Nn/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/0747-min-cost-climbing-stairs) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/gaurav1Nn/leetcode-question/tree/master/0679-24-game) |
 | [0755-reach-a-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/0755-reach-a-number) |
 | [0797-rabbits-in-forest](https://github.com/gaurav1Nn/leetcode-question/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/gaurav1Nn/leetcode-question/tree/master/0826-soup-servings) |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/gaurav1Nn/leetcode-question/tree/master/0257-binary-tree-paths) |
+| [0679-24-game](https://github.com/gaurav1Nn/leetcode-question/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gaurav1Nn/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gaurav1Nn/leetcode-question/tree/master/2140-longest-subsequence-repeated-k-times) |
