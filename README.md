@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/gaurav1Nn/leetcode-question/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/gaurav1Nn/leetcode-question/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/gaurav1Nn/leetcode-question/tree/master/0733-flood-fill) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/gaurav1Nn/leetcode-question/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/gaurav1Nn/leetcode-question/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gaurav1Nn/leetcode-question/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/gaurav1Nn/leetcode-question/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/gaurav1Nn/leetcode-question/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/gaurav1Nn/leetcode-question/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/gaurav1Nn/leetcode-question/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/gaurav1Nn/leetcode-question/tree/master/0797-rabbits-in-forest) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/gaurav1Nn/leetcode-question/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/gaurav1Nn/leetcode-question/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gaurav1Nn/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gaurav1Nn/leetcode-question/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gaurav1Nn/leetcode-question/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/gaurav1Nn/leetcode-question/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/gaurav1Nn/leetcode-question/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gaurav1Nn/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1147,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/gaurav1Nn/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/gaurav1Nn/leetcode-question/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gaurav1Nn/leetcode-question/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/gaurav1Nn/leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/gaurav1Nn/leetcode-question/tree/master/1396-count-servers-that-communicate) |
