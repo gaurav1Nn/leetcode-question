@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gaurav1Nn/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gaurav1Nn/leetcode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gaurav1Nn/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/gaurav1Nn/leetcode-question/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gaurav1Nn/leetcode-question/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1646-kth-missing-positive-number) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/gaurav1Nn/leetcode-question/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gaurav1Nn/leetcode-question/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gaurav1Nn/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gaurav1Nn/leetcode-question/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gaurav1Nn/leetcode-question/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gaurav1Nn/leetcode-question/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gaurav1Nn/leetcode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gaurav1Nn/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/gaurav1Nn/leetcode-question/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gaurav1Nn/leetcode-question/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gaurav1Nn/leetcode-question/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
