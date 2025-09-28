@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/gaurav1Nn/leetcode-question/tree/master/0967-minimum-falling-path-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1018-largest-perimeter-triangle](https://github.com/gaurav1Nn/leetcode-question/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/gaurav1Nn/leetcode-question/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gaurav1Nn/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gaurav1Nn/leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/gaurav1Nn/leetcode-question/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/gaurav1Nn/leetcode-question/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/gaurav1Nn/leetcode-question/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav1Nn/leetcode-question/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gaurav1Nn/leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gaurav1Nn/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/gaurav1Nn/leetcode-question/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/gaurav1Nn/leetcode-question/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/gaurav1Nn/leetcode-question/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/gaurav1Nn/leetcode-question/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gaurav1Nn/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/gaurav1Nn/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gaurav1Nn/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gaurav1Nn/leetcode-question/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav1Nn/leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/gaurav1Nn/leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1018-largest-perimeter-triangle](https://github.com/gaurav1Nn/leetcode-question/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gaurav1Nn/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gaurav1Nn/leetcode-question/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gaurav1Nn/leetcode-question/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
